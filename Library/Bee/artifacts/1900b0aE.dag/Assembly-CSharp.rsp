@@ -355,7 +355,6 @@
 "Assets/Codingan/CodinganGameplay/PrimsAlgoritm.cs"
 "Assets/Codingan/CodinganGameplay/RecursiveDFS.cs"
 "Assets/Codingan/CodinganGameplay/WeaponLogic.cs"
-"Assets/Codingan/CodinganMAinMenu/MainMenuLogic.cs"
 "Assets/Mesh/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
 "Assets/Mesh/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
 "Assets/Mesh/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
