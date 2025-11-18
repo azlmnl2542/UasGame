@@ -74,7 +74,6 @@
     <Compile Include="Assets\Mesh\Standard Assets\Utility\CameraRefocus.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
-    <Compile Include="Assets\Codingan\CodinganMAinMenu\MainMenuLogic.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
     <Compile Include="Assets\Codingan\CodinganGameplay\WeaponLogic.cs" />
