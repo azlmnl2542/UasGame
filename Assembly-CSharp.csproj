@@ -58,39 +58,29 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Codingan\CodinganGameplay\MazeLogic.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\DynamicShadowSettings.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\RecursiveDFS.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\LerpControlledBob.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\PlatformSpecificContent.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\CrawlerAlgoritm.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\Groundcheck.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\TimedObjectActivator.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\CameraRefocus.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\WeaponLogic.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\CurveControlledBob.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\PrimsAlgoritm.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\AutoMoveAndRotate.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\FPSCounter.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\SimpleActivatorMenu.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\SimpleMouseRotator.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\CameraLogic.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\EnemyLogic.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\SmoothFollow.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\PlayerLogic.cs" />
-    <Compile Include="Assets\Codingan\CodinganGameplay\Extension.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\Utility\WaypointProgressTracker.cs" />
@@ -113,6 +103,22 @@
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\Mesh\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+    <Compile Include="Assets\Script\EnemyLogic.cs" />
+    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
+    <Compile Include="Assets\Script\Extension.cs" />
+    <Compile Include="Assets\Script\UIGameplayLogic.cs" />
+    <Compile Include="Assets\Script\GroundCheck.cs" />
+    <Compile Include="Assets\Script\CrawlerAlgoritm.cs" />
+    <Compile Include="Assets\Script\UILogic.cs" />
+    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
+    <Compile Include="Assets\Script\PlayerLogic.cs" />
+    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
+    <Compile Include="Assets\Script\RecursiveDFS.cs" />
+    <Compile Include="Assets\Script\MazeLogic.cs" />
+    <Compile Include="Assets\Script\WeaponLogic.cs" />
+    <Compile Include="Assets\Script\CameraLogic.cs" />
+    <Compile Include="Assets\Script\PrimsAlgoritm.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mesh\Environment\Shaders\WorldCoordDiffuse.shader" />
